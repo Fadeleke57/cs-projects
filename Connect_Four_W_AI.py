@@ -239,7 +239,7 @@ class AIPlayer(Player):
         
     def __repr__(self):
         '''returns a string representing an AIPlayer object'''
-        s = 'Player' + ' ' + self.checker + ' ' + '(' + self.tiebreak + ', ' + str(self.lookahead) + ')'
+        s = 'AIPlayer' + ' ' + self.checker + ' ' + '(' + self.tiebreak + ', ' + str(self.lookahead) + ')'
         return s
     
     def max_score_column(self, scores):
