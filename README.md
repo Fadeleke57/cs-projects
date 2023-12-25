@@ -5,6 +5,12 @@ This repository hosts a collection of notable projects developed as part of the 
 
 # Projects
 
+Page Ranking
+<br>
+Language: Python, adjlist
+<br>
+Description: A program developed in Python and SciPy that takes an ajdlist file as input (Google, Stanford, Berkley) and preforms a "random walk" on the created graph to display the "search ranking" of the given information. 
+
 Blackjack Game
 <br>
 Language: Java
