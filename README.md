@@ -6,7 +6,7 @@ This repository hosts a collection of notable projects developed as part of the 
 # Projects
 
 Blackjack Game
-
+\n
 Language: Java
 Description: A classic card game developed in Java. This project focuses on object-oriented programming principles and demonstrates effective use of classes and objects to simulate a game of Blackjack.
 
