@@ -6,17 +6,20 @@ This repository hosts a collection of notable projects developed as part of the 
 # Projects
 
 Blackjack Game
-\n
+<br>
 Language: Java
+<br>
 Description: A classic card game developed in Java. This project focuses on object-oriented programming principles and demonstrates effective use of classes and objects to simulate a game of Blackjack.
 
 Connect Four Game with Varying Difficulty
-
+<br>
 Language: Python
+<br>
 Description: An interactive Connect Four game built in Python. This project features multiple difficulty levels and utilizes advanced algorithms to create a challenging AI opponent. The game showcases the use of graphical user interfaces in Python.
 
 Text Similarity Program
-
+<br>
 Language: Python
+<br>
 Description: A program designed to analyze and determine the similarity between different texts. Implemented Python, this project highlights the use of programming for efficient text processing and analysis.
 
